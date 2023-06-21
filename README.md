@@ -55,3 +55,6 @@ El fin de este trabajo es entender como funciona la herencia de clases.
     Captura de la consola
 ![img_18.png](Imagenes/img_18.png)
 ![img_19.png](Imagenes/img_19.png)
+
+## Diagrama
+![img.png](Imagenes/diagrama.png)
