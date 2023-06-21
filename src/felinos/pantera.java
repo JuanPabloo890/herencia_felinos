@@ -1,3 +1,5 @@
+package felinos;
+
 public class pantera extends felinos {
 
     private String habitat;

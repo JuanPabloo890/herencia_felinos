@@ -1,3 +1,5 @@
+package felinos;
+
 public class puma extends felinos {
     private String habitat;
     private String tamanio;

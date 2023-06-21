@@ -1,3 +1,5 @@
+package felinos;
+
 public class felinos {
     //atributos
 

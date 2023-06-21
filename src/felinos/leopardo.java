@@ -1,3 +1,5 @@
+package felinos;
+
 public class leopardo extends felinos{
     private String pelaje;
     private String habitat;
